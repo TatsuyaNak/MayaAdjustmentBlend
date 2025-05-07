@@ -1,5 +1,5 @@
 # MayaAdjustmentBlend
-A Python script to implement Adjustment Blend method with a animation layer in Autodesk Maya.
+A Python script to implement Adjustment Blend method with animation layers in Autodesk Maya.
 Copyright (c) 2025 Tatsuya Nakamura
 
 Adjustment Blending is a method for adjusting additive layer interpolation between keyframes,
